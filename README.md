@@ -173,87 +173,77 @@ Going deeper into building end-to-end, production-ready applications.
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-**[🎨 HueHaven](https://github.com/4bhiigit/HueHaven)**
+<a href="https://github.com/4bhiigit/HueHaven">
+  <img src="https://img.shields.io/badge/🎨_HueHaven-Java_Swing_Palette_Manager-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
 <br/>
-GUI-based color-palette manager with real-time HEX/RGB rendering and persistent theme storage.
-<br/>
-`Java` `Swing/AWT` `OOP`
+GUI color-palette manager with real-time HEX/RGB rendering, event-driven Swing/AWT architecture & persistent theme storage.
+<br/><br/>
+<a href="https://github.com/4bhiigit/HueHaven">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=HueHaven&theme=synthwave&hide_border=true" />
+</a>
 
-</td>
-<td width="50%">
+<br/><br/>
 
-**[📊 Retail Sales Performance Dashboard](https://github.com/4bhiigit)**
+<a href="https://github.com/4bhiigit">
+  <img src="https://img.shields.io/badge/📊_Retail_Sales_Dashboard-Power_BI_%7C_293K+_Transactions-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</a>
 <br/>
-Interactive Power BI dashboard covering ~293K transactions & ₹410M+ revenue with custom DAX KPIs.
+Interactive Power BI dashboard analyzing ₹410M+ revenue with custom DAX transformation pipelines & scalable data models.
 <br/>
-`Power BI` `DAX` `Power Query`
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PowerQuery](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br/><br/><br/>
 
-**[🌐 Flask-Development](https://github.com/4bhiigit/Flask-Development)**
+<a href="https://github.com/4bhiigit/Flask-Development">
+  <img src="https://img.shields.io/badge/🌐_Flask_Development-Employee_Management_System-22C55E?style=for-the-badge&logo=flask&logoColor=white" />
+</a>
 <br/>
-Enterprise-grade Employee Management System — Flask, SQLAlchemy, RBAC, HTMX, Chart.js, Excel/PDF export.
-<br/>
-`Flask` `SQLAlchemy` `HTMX`
+Enterprise-grade system with Flask, SQLAlchemy, RBAC, HTMX, Alpine.js, Chart.js & Excel/PDF export.
+<br/><br/>
+<a href="https://github.com/4bhiigit/Flask-Development">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=radical&hide_border=true" />
+</a>
 
-</td>
-<td width="50%">
+<br/><br/>
 
-**[⚡ Fast_API](https://github.com/4bhiigit/Fast_API)**
+<a href="https://github.com/4bhiigit/Fast_API">
+  <img src="https://img.shields.io/badge/⚡_Fast__API-Student_Management_Service-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white" />
+</a>
 <br/>
-FastAPI + MongoDB student-management service with full CRUD and filtering endpoints.
-<br/>
-`FastAPI` `MongoDB`
+FastAPI + MongoDB backed service with full CRUD, filtering & retrieval endpoints.
+<br/><br/>
+<a href="https://github.com/4bhiigit/Fast_API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=tokyonight&hide_border=true" />
+</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br/><br/>
 
-**[🔗 URL Shortener (Password Protected)](https://github.com/4bhiigit/URL_Shortner-Password-Protected-)**
+<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-">
+  <img src="https://img.shields.io/badge/🔗_URL_Shortener-Password_Protected_%7C_Analytics-EC4899?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</a>
 <br/>
-Full-stack shortener with custom aliases, password protection, auto-expiry & QR codes.
-<br/>
-`Next.js 14` `Tailwind` `Upstash Redis`
+Full-stack shortener with custom aliases, password protection, auto-expiration & PNG QR code generator.
+<br/><br/>
+<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=URL_Shortner-Password-Protected-&theme=dracula&hide_border=true" />
+</a>
 
-</td>
-<td width="50%">
+<br/><br/>
 
-**[🎙️ VERTEX AI Voice Support Agent](https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent)**
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent">
+  <img src="https://img.shields.io/badge/🎙️_VERTEX_AI_Voice_Agent-Google_Gemini_Realtime-F97316?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</a>
 <br/>
-Bilingual (EN/HI) voice chatbot using VideoSDK Agents + Google Gemini Realtime for customer support.
-<br/>
-`Python` `Gemini` `VideoSDK`
-
-</td>
-</tr>
-</table>
+Bilingual (EN/HI) voice chatbot handling customer calls, pricing info & lead collection via VideoSDK Agents.
+<br/><br/>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=gruvbox&hide_border=true" />
+</a>
 
 </div>
-
----
-
-### 🎓 Certifications & Achievements
-
-<details open>
-<summary><b>Click to collapse / expand</b></summary>
-<br/>
-
-| 🏅 | Certification | Issuer | Date |
-|---|---|---|---|
-| ☁️ | Cloud Computing | NPTEL | Apr'26 |
-| 🎯 | UAT for Interview | Udemy | Feb'26 |
-| 🔄 | Software Development Processes & Methodologies | Coursera | May'25 |
-| 🏴‍☠️ | Hack Quest — 24-Hour CTF Challenge (Concoction 2024, LPU) | LPU | Apr'24 |
-
-</details>
 
 ---
 
