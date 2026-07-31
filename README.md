@@ -150,13 +150,10 @@ Going deeper into building end-to-end, production-ready applications.
 ### 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
-<sub>🔧 One-time setup needed — see <b>snake.yml</b> shared alongside this README</sub>
+<img alt="colorful animated github contribution snake" src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/snake-colorful.gif" width="100%"/>
+
+<sub>🔧 One-time setup needed — see the updated <b>snake.yml</b> shared alongside this README (now with custom neon colors 🌈)</sub>
 </div>
 
 ---
@@ -173,77 +170,79 @@ Going deeper into building end-to-end, production-ready applications.
 
 <div align="center">
 
-<a href="https://github.com/4bhiigit/HueHaven">
-  <img src="https://img.shields.io/badge/🎨_HueHaven-Java_Swing_Palette_Manager-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white" />
-</a>
-<br/><br/>
-GUI color-palette manager with real-time HEX/RGB rendering, event-driven Swing/AWT architecture & persistent theme storage.
-<br/><br/>
-<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/stars/4bhiigit/HueHaven?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
-<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/languages/top/4bhiigit/HueHaven?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e" /></a>
-<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/last-commit/4bhiigit/HueHaven?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
-
-<br/><br/><br/>
-
-<a href="https://github.com/4bhiigit">
-  <img src="https://img.shields.io/badge/📊_Retail_Sales_Dashboard-Power_BI_%7C_293K+_Transactions-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</a>
-<br/><br/>
-Interactive Power BI dashboard analyzing ₹410M+ revenue with custom DAX transformation pipelines & scalable data models.
-<br/><br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white" />
-
-<br/><br/><br/>
-
 <a href="https://github.com/4bhiigit/Flask-Development">
-  <img src="https://img.shields.io/badge/🌐_Flask_Development-Employee_Management_System-22C55E?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0D9488&height=170&section=header&text=Flask%20Development&fontSize=38&fontColor=ffffff&desc=Employee%20Management%20System&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 </a>
-<br/><br/>
-Enterprise-grade system with Flask, SQLAlchemy, RBAC, HTMX, Alpine.js, Chart.js & Excel/PDF export.
-<br/><br/>
+
+**Enterprise-grade Employee Management System** — built with Flask, SQLAlchemy, RBAC, HTMX, Alpine.js, Chart.js & Excel/PDF export.
+
 <a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/stars/4bhiigit/Flask-Development?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
 <a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/languages/top/4bhiigit/Flask-Development?style=for-the-badge&color=22C55E&labelColor=1a1a2e" /></a>
 <a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/last-commit/4bhiigit/Flask-Development?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/><br/>
+<hr/>
 
 <a href="https://github.com/4bhiigit/Fast_API">
-  <img src="https://img.shields.io/badge/⚡_Fast__API-Student_Management_Service-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:3B82F6&height=170&section=header&text=Fast%20API&fontSize=38&fontColor=ffffff&desc=Student%20Management%20Service&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 </a>
-<br/><br/>
-FastAPI + MongoDB backed service with full CRUD, filtering & retrieval endpoints.
-<br/><br/>
+
+**FastAPI + MongoDB backed service** — full CRUD, filtering & retrieval endpoints for student data management.
+
 <a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/stars/4bhiigit/Fast_API?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
 <a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/languages/top/4bhiigit/Fast_API?style=for-the-badge&color=06B6D4&labelColor=1a1a2e" /></a>
 <a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/last-commit/4bhiigit/Fast_API?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/><br/>
+<hr/>
 
 <a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-">
-  <img src="https://img.shields.io/badge/🔗_URL_Shortener-Password_Protected_%7C_Analytics-EC4899?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:A855F7&height=170&section=header&text=URL%20Shortener&fontSize=38&fontColor=ffffff&desc=Password%20Protected%20%2B%20Analytics&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 </a>
-<br/><br/>
-Full-stack shortener with custom aliases, password protection, auto-expiration & PNG QR code generator.
-<br/><br/>
+
+**Full-stack URL shortener** — Next.js 14 & Upstash Redis, with custom aliases, password protection, auto-expiration & PNG QR code generator.
+
 <a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/stars/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
 <a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/languages/top/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=EC4899&labelColor=1a1a2e" /></a>
 <a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/last-commit/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/><br/>
+<hr/>
 
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent">
-  <img src="https://img.shields.io/badge/🎙️_VERTEX_AI_Voice_Agent-Google_Gemini_Realtime-F97316?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:EF4444&height=170&section=header&text=VERTEX%20AI%20Voice%20Agent&fontSize=34&fontColor=ffffff&desc=Google%20Gemini%20Realtime%20Chatbot&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 </a>
-<br/><br/>
-Bilingual (EN/HI) voice chatbot handling customer calls, pricing info & lead collection via VideoSDK Agents.
-<br/><br/>
+
+**Bilingual (EN/HI) voice chatbot** — handles customer calls, shares pricing info & collects leads using VideoSDK Agents + Google Gemini Realtime.
+
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/stars/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/languages/top/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=F97316&labelColor=1a1a2e" /></a>
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/last-commit/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
+<hr/>
+
+<a href="https://github.com/4bhiigit/HueHaven">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=170&section=header&text=HueHaven&fontSize=40&fontColor=ffffff&desc=Java%20Swing%20Color%20Palette%20Manager&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
+</a>
+
+**GUI-based color-palette manager** — real-time HEX/RGB rendering, event-driven Swing/AWT architecture & persistent theme storage.
+
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/stars/4bhiigit/HueHaven?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/languages/top/4bhiigit/HueHaven?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/last-commit/4bhiigit/HueHaven?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
+
+<hr/>
+
+<a href="https://github.com/4bhiigit">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:F59E0B&height=170&section=header&text=Retail%20Sales%20Dashboard&fontSize=32&fontColor=1a1a2e&desc=Power%20BI%20%7C%20293K%2B%20Transactions&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
+</a>
+
+**Interactive Power BI dashboard** — analyzing ₹410M+ revenue across ~293K transactions with custom DAX transformation pipelines & scalable data models.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+
 </div>
+
+---
 
 ---
 
