@@ -24,6 +24,10 @@
 
 ### 🧑‍💻 About Me
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=150&section=header&text=About%20Me&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%26%20Full%20Stack%20Developer&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=68" width="100%"/>
+</div>
+
 ```yaml
 name: Abhishek Dongre
 role: Data Analyst & Full Stack Developer
@@ -45,35 +49,30 @@ fun_fact: "Cleared a 24-hour CTF challenge — Hack Quest 2024 🏴‍☠️"
 ### 🔥 What I'm Up To Right Now
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-#### 🛒 Building: **ShopNova**
-Full-stack E-commerce website — from product catalog to checkout.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FB923C,100:EF4444&height=170&section=header&text=ShopNova&fontSize=40&fontColor=ffffff&desc=Full-Stack%20E-commerce%20Website&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 
-![Status](https://img.shields.io/badge/status-in__progress-orange?style=flat-square&logo=hashnode&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**🛒 Currently Building** — Full-stack E-commerce website, from product catalog to checkout.
+
+<img src="https://img.shields.io/badge/status-in__progress-orange?style=for-the-badge&logo=hashnode&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 `▓▓▓▓▓▓░░░░` **~60% complete**
 
-</td>
-<td width="50%" valign="top">
+<hr/>
 
-#### 📚 Learning: **Full Stack Web Dev**
-Going deeper into building end-to-end, production-ready applications.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:3B82F6&height=170&section=header&text=Full%20Stack%20Web%20Dev&fontSize=36&fontColor=ffffff&desc=Deep-diving%20into%20Production-Ready%20Apps&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=65" width="100%"/>
 
-![Status](https://img.shields.io/badge/status-actively__learning-blueviolet?style=flat-square&logo=googlescholar&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![API](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+**📚 Currently Learning** — Going deeper into building end-to-end, production-ready applications.
+
+<img src="https://img.shields.io/badge/status-actively__learning-blueviolet?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 `▓▓▓▓▓▓▓░░░` **~70% complete**
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
