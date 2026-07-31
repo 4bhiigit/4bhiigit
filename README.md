@@ -25,7 +25,9 @@
 ### 🧑‍💻 About Me
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=150&section=header&text=About%20Me&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%26%20Full%20Stack%20Developer&descSize=18&animation=fadeIn&fontAlignY=38&descAlignY=68" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=55&lines=About+Me;Data+Analyst+%26+Full+Stack+Developer;B.Tech+CSE+%40+LPU+%7C+Chhindwara%2C+India" alt="About Me banner" />
+
 </div>
 
 ```yaml
