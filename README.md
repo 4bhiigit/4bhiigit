@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek2006/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekdongre206@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me.4mmu)
-[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919755616198)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919109805161)
 
 </div>
 
@@ -84,33 +84,33 @@ Going deeper into building end-to-end, production-ready applications.
 
 **Languages**
 <br/>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 **Frameworks & Libraries**
 <br/>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
 **Tools & Platforms**
 <br/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
 <br/>
 
@@ -176,72 +176,72 @@ Going deeper into building end-to-end, production-ready applications.
 <a href="https://github.com/4bhiigit/HueHaven">
   <img src="https://img.shields.io/badge/🎨_HueHaven-Java_Swing_Palette_Manager-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
-<br/>
+<br/><br/>
 GUI color-palette manager with real-time HEX/RGB rendering, event-driven Swing/AWT architecture & persistent theme storage.
 <br/><br/>
-<a href="https://github.com/4bhiigit/HueHaven">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=HueHaven&theme=synthwave&hide_border=true" />
-</a>
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/stars/4bhiigit/HueHaven?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/languages/top/4bhiigit/HueHaven?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/HueHaven"><img src="https://img.shields.io/github/last-commit/4bhiigit/HueHaven?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <a href="https://github.com/4bhiigit">
   <img src="https://img.shields.io/badge/📊_Retail_Sales_Dashboard-Power_BI_%7C_293K+_Transactions-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </a>
-<br/>
+<br/><br/>
 Interactive Power BI dashboard analyzing ₹410M+ revenue with custom DAX transformation pipelines & scalable data models.
-<br/>
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PowerQuery](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white)
+<br/><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white" />
 
 <br/><br/><br/>
 
 <a href="https://github.com/4bhiigit/Flask-Development">
   <img src="https://img.shields.io/badge/🌐_Flask_Development-Employee_Management_System-22C55E?style=for-the-badge&logo=flask&logoColor=white" />
 </a>
-<br/>
+<br/><br/>
 Enterprise-grade system with Flask, SQLAlchemy, RBAC, HTMX, Alpine.js, Chart.js & Excel/PDF export.
 <br/><br/>
-<a href="https://github.com/4bhiigit/Flask-Development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=radical&hide_border=true" />
-</a>
+<a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/stars/4bhiigit/Flask-Development?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/languages/top/4bhiigit/Flask-Development?style=for-the-badge&color=22C55E&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/Flask-Development"><img src="https://img.shields.io/github/last-commit/4bhiigit/Flask-Development?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <a href="https://github.com/4bhiigit/Fast_API">
   <img src="https://img.shields.io/badge/⚡_Fast__API-Student_Management_Service-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
-<br/>
+<br/><br/>
 FastAPI + MongoDB backed service with full CRUD, filtering & retrieval endpoints.
 <br/><br/>
-<a href="https://github.com/4bhiigit/Fast_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/stars/4bhiigit/Fast_API?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/languages/top/4bhiigit/Fast_API?style=for-the-badge&color=06B6D4&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/Fast_API"><img src="https://img.shields.io/github/last-commit/4bhiigit/Fast_API?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-">
   <img src="https://img.shields.io/badge/🔗_URL_Shortener-Password_Protected_%7C_Analytics-EC4899?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </a>
-<br/>
+<br/><br/>
 Full-stack shortener with custom aliases, password protection, auto-expiration & PNG QR code generator.
 <br/><br/>
-<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=URL_Shortner-Password-Protected-&theme=dracula&hide_border=true" />
-</a>
+<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/stars/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/languages/top/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=EC4899&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/URL_Shortner-Password-Protected-"><img src="https://img.shields.io/github/last-commit/4bhiigit/URL_Shortner-Password-Protected-?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent">
   <img src="https://img.shields.io/badge/🎙️_VERTEX_AI_Voice_Agent-Google_Gemini_Realtime-F97316?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </a>
-<br/>
+<br/><br/>
 Bilingual (EN/HI) voice chatbot handling customer calls, pricing info & lead collection via VideoSDK Agents.
 <br/><br/>
-<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=gruvbox&hide_border=true" />
-</a>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/stars/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=FFD700&labelColor=1a1a2e&logo=github" /></a>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/languages/top/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=F97316&labelColor=1a1a2e" /></a>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://img.shields.io/github/last-commit/4bhiigit/VERTEX-AI-Voice-Support-Agent?style=for-the-badge&color=22D3EE&labelColor=1a1a2e" /></a>
 
 </div>
 
