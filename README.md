@@ -91,24 +91,7 @@
 
 **Analytics &amp; BI**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>
-
-<br/>
-
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0px 20px;">
-      <img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>
-      <br/>
-      <sub>Power BI</sub>
-    </td>
-    <td align="center" style="border: none; padding: 0px 20px;">
-      <img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
-      <br/>
-      <sub>Excel</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
 
 **Developer Tools**
 
