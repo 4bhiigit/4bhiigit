@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: 4bhiigit
           template: classic
           base: header, activity, community, repositories, metadata
