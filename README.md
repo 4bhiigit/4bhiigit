@@ -65,55 +65,54 @@
 
 <sub>Grouped by where each tool actually gets used</sub>
 
-<br/><br/>
-
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages"/>&nbsp;&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="SQL"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/sql.svg" alt="SQL"/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
 
-<br/><br/>
-
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&theme=dark" alt="Backend"/>
-
-<br/><br/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
 
-<br/><br/>
-
 **Cloud &amp; DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,githubactions&theme=dark" alt="Cloud and DevOps"/>
 
-<br/><br/>
-
 **AI &amp; Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and Machine Learning"/>&nbsp;&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=D4AF37" alt="Gemini API"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and Machine Learning"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/gemini.svg" alt="Gemini"/>
 
 **Analytics &amp; BI**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>&nbsp;&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=D4AF37" alt="Power BI"/>&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>
 
-<br/><br/>
+<br/>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0px 20px;">
+      <img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>
+      <br/>
+      <sub>Power BI</sub>
+    </td>
+    <td align="center" style="border: none; padding: 0px 20px;">
+      <img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
+      <br/>
+      <sub>Excel</sub>
+    </td>
+  </tr>
+</table>
 
 **Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark" alt="Developer Tools"/>
-
-<br/><br/>
 
 **Version Control**
 
