@@ -234,6 +234,14 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<br/>
+
+<img src="./metrics.svg" alt="Metrics"/>
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
