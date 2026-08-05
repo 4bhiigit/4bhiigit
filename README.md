@@ -91,7 +91,9 @@
 
 **Analytics &amp; BI**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>
+<br/>
+<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
 
 **Developer Tools**
 
