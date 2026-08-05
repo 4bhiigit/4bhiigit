@@ -93,7 +93,24 @@
 
 **Analytics &amp; BI**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>&nbsp;&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=D4AF37" alt="Power BI"/>&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" alt="Analytics"/>
+
+<br/>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0px 20px;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-0D1117?style=for-the-badge&logo=powerbi&logoColor=D4AF37" height="40" alt="Power BI"/>
+      <br/>
+      <sub>Power BI</sub>
+    </td>
+    <td align="center" style="border: none; padding: 0px 20px;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" height="40" alt="Excel"/>
+      <br/>
+      <sub>Excel</sub>
+    </td>
+  </tr>
+</table>
 
 **Developer Tools**
 
