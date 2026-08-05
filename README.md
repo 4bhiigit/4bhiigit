@@ -147,7 +147,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/shorturl"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=shorturl&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="shorturl"/></a>
+<a href="https://github.com/4bhiigit/shorturl"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=shorturl&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="shorturl"/></a>
 
 Full-stack URL shortener and analytics app — custom aliases, password-protected links, auto-expiration, QR code generation, and real-time click tracking.
 
@@ -157,7 +157,7 @@ Full-stack URL shortener and analytics app — custom aliases, password-protecte
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/My-Portfolio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=My-Portfolio&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="My-Portfolio"/></a>
+<a href="https://github.com/4bhiigit/My-Portfolio"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=My-Portfolio&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="My-Portfolio"/></a>
 
 Developer portfolio and showcase application with a data-driven UI architecture — projects, certifications, and training presented through a responsive, animated interface.
 
@@ -169,7 +169,7 @@ Developer portfolio and showcase application with a data-driven UI architecture 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/Flask-Development"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Flask-Development"/></a>
+<a href="https://github.com/4bhiigit/Flask-Development"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Flask-Development"/></a>
 
 Enterprise-grade employee management system — role-based access control, HTMX-driven interactions, live charts, and Excel/PDF export.
 
@@ -179,7 +179,7 @@ Enterprise-grade employee management system — role-based access control, HTMX-
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/Fast_API"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Fast_API"/></a>
+<a href="https://github.com/4bhiigit/Fast_API"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Fast_API"/></a>
 
 A FastAPI service with MongoDB-backed student management routes — add, retrieve, update, delete, and filter, all through a clean REST interface.
 
@@ -191,7 +191,7 @@ A FastAPI service with MongoDB-backed student management routes — add, retriev
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="VERTEX-AI-Voice-Support-Agent"/></a>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="VERTEX-AI-Voice-Support-Agent"/></a>
 
 A Python voice chatbot built on VideoSDK Agents and Google Gemini Realtime — handles customer calls in English and Hindi, and shares service and pricing information.
 
@@ -201,7 +201,7 @@ A Python voice chatbot built on VideoSDK Agents and Google Gemini Realtime — h
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/React"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=4bhiigit&repo=React&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="React"/></a>
+<a href="https://github.com/4bhiigit/React"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=React&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="React"/></a>
 
 A Vite-bootstrapped React project — a clean component layout with props support and a ready-to-run development setup.
 
@@ -221,8 +221,8 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4bhiigit&show_icons=true&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=30363D&border_radius=12" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=4bhiigit&show_icons=true&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=30363D&border_radius=12" alt="Top Languages"/>
 
 <br/>
 
@@ -242,7 +242,7 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
