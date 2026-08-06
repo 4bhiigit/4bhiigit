@@ -193,7 +193,13 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<div align="center">
+
+## 🏆 Achievements & Trophies
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=4bhiigit&theme=gold&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
 
 </div>
 
@@ -201,13 +207,13 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <div align="center">
 
-## Highlights
+## 🌟 Highlights
 
-- Actively building and shipping end-to-end applications across data, backend, and frontend
-- Public work spans full working systems — APIs, dashboards, and voice interfaces — rather than isolated snippets
-- Continuously extending skills into AI-driven interfaces and agent-based tooling
+<br/>
 
-<sub>Certifications and competition results can be added here as they're earned — see the customization guide.</sub>
+• 🚀 **End-to-End Delivery** — Actively building &amp; shipping full-stack data, backend, and AI applications  
+• 🛠️ **Production-Ready Systems** — Public work spans complete working APIs, dashboards, and voice interfaces  
+• 🤖 **Applied AI Innovation** — Continuously extending developer skills into agentic AI &amp; intelligent tooling  
 
 </div>
 
@@ -215,46 +221,67 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <div align="center">
 
-## Learning Journey
+## 🗺️ Learning Journey
+
+</div>
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td width="33%" align="center" valign="top">
 
-**Currently Learning**
+<div align="center">
 
-- Advanced SQL &amp; query optimization
-- Docker &amp; container fundamentals
-- System design basics
-- Agentic AI applications
+<img src="https://custom-icon-badges.demolab.com/badge/📖_CURRENTLY_LEARNING-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Currently Learning"/>
 
-</td>
-<td valign="top" width="33%">
+</div>
 
-**Next on the Roadmap**
+<br/>
 
-- Cloud deployment (AWS / GCP)
-- Contributing to open source
-- An end-to-end analytics platform
+• Advanced SQL &amp; Query Optimization  
+• Docker &amp; Containerization  
+• System Design Fundamentals  
+• Agentic AI Applications  
 
 </td>
-<td valign="top" width="33%">
+<td width="33%" align="center" valign="top">
 
-**Long-Term Goal**
+<div align="center">
 
-A role where data analysis and full-stack engineering meet — building the tools, not just reading the dashboards.
+<img src="https://custom-icon-badges.demolab.com/badge/🚀_ROADMAP_NEXT-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Roadmap Next"/>
+
+</div>
+
+<br/>
+
+• Cloud Infrastructure (AWS / GCP)  
+• Open Source Contributions  
+• End-to-End Analytics Platform  
+• Advanced Voice Agents  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+
+<img src="https://custom-icon-badges.demolab.com/badge/🎯_LONG--TERM_GOAL-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Long-Term Goal"/>
+
+</div>
+
+<br/>
+
+A high-impact role at the intersection of Data Analysis &amp; Full-Stack Engineering — building real products that scale.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
+
+<br/>
 
 <a href="https://my-portfolio-flax-theta-77.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/abhishek2006/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
