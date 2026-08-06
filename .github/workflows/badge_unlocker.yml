@@ -25,7 +25,7 @@ jobs:
               await github.rest.repos.update({
                 owner: '4bhiigit',
                 repo: 'code-prectice',
-                description: '⚡ Curated Data Structures & Algorithms solutions in Python, Java, and C++ with clean indexing.'
+                description: '⚡ My personal DSA playground & LeetCode solution index built for technical interviews.'
               });
               console.log('Successfully updated code-prectice description!');
             } catch (err) {
