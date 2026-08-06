@@ -73,21 +73,25 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/shorturl"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=shorturl&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="shorturl"/></a>
+<a href="https://github.com/4bhiigit/shorturl"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=shorturl&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="shorturl"/></a>
 
-Full-stack URL shortener and analytics app — custom aliases, password-protected links, auto-expiration, QR code generation, and real-time click tracking.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=D4AF37" alt="Next.js"/> <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=D4AF37" alt="TypeScript"/> <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind"/> <img src="https://custom-icon-badges.demolab.com/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=D4AF37" alt="Redis"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/shorturl"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a> <a href="https://url-shortner-password-protected.vercel.app"><img src="https://custom-icon-badges.demolab.com/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Live Demo"/></a>
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/My-Portfolio"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=My-Portfolio&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="My-Portfolio"/></a>
+<a href="https://github.com/4bhiigit/My-Portfolio"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=My-Portfolio&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="My-Portfolio"/></a>
 
-Developer portfolio and showcase application with a data-driven UI architecture — projects, certifications, and training presented through a responsive, animated interface.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/React-0D1117?style=flat-square&logo=react&logoColor=D4AF37" alt="React"/> <img src="https://custom-icon-badges.demolab.com/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=D4AF37" alt="Vite"/> <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind"/> <img src="https://custom-icon-badges.demolab.com/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=D4AF37" alt="Framer Motion"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/My-Portfolio"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a> <a href="https://my-portfolio-flax-theta-77.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Live Demo"/></a>
 
@@ -95,21 +99,25 @@ Developer portfolio and showcase application with a data-driven UI architecture 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/Flask-Development"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Flask-Development"/></a>
+<a href="https://github.com/4bhiigit/Flask-Development"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Flask-Development&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="Flask-Development"/></a>
 
-Enterprise-grade employee management system — role-based access control, HTMX-driven interactions, live charts, and Excel/PDF export.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=D4AF37" alt="Flask"/> <img src="https://custom-icon-badges.demolab.com/badge/SQLAlchemy-0D1117?style=flat-square&logo=python&logoColor=D4AF37" alt="SQLAlchemy"/> <img src="https://custom-icon-badges.demolab.com/badge/HTMX-0D1117?style=flat-square&logo=htmx&logoColor=D4AF37" alt="HTMX"/> <img src="https://custom-icon-badges.demolab.com/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=D4AF37" alt="Chart.js"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/Flask-Development"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/Fast_API"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="Fast_API"/></a>
+<a href="https://github.com/4bhiigit/Fast_API"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=Fast_API&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="Fast_API"/></a>
 
-A FastAPI service with MongoDB-backed student management routes — add, retrieve, update, delete, and filter, all through a clean REST interface.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/> <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=D4AF37" alt="MongoDB"/> <img src="https://custom-icon-badges.demolab.com/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37" alt="Python"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/Fast_API"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a>
 
@@ -117,21 +125,25 @@ A FastAPI service with MongoDB-backed student management routes — add, retriev
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="VERTEX-AI-Voice-Support-Agent"/></a>
+<a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=VERTEX-AI-Voice-Support-Agent&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="VERTEX-AI-Voice-Support-Agent"/></a>
 
-A Python voice chatbot built on VideoSDK Agents and Google Gemini Realtime — handles customer calls in English and Hindi, and shares service and pricing information.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37" alt="Python"/> <img src="https://custom-icon-badges.demolab.com/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=D4AF37" alt="Gemini API"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/VERTEX-AI-Voice-Support-Agent"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/4bhiigit/React"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=React&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="React"/></a>
+<a href="https://github.com/4bhiigit/React"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=React&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="React"/></a>
 
-A Vite-bootstrapped React project — a clean component layout with props support and a ready-to-run development setup.
+<br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/React-0D1117?style=flat-square&logo=react&logoColor=D4AF37" alt="React"/> <img src="https://custom-icon-badges.demolab.com/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=D4AF37" alt="Vite"/>
+
+<br/><br/>
 
 <a href="https://github.com/4bhiigit/React"><img src="https://custom-icon-badges.demolab.com/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Code"/></a>
 
