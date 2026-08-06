@@ -283,51 +283,15 @@ A high-impact role at the intersection of Data Analysis &amp; Full-Stack Enginee
 
 <div align="center">
 
-## 🤝 Let's Connect &amp; Collaborate
-
-<sub>Feel free to reach out for projects, collaborations, or just a quick tech chat!</sub>
+## 🤝 Let's Connect
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center" valign="top">
-<a href="https://my-portfolio-flax-theta-77.vercel.app/">
-  <img src="https://custom-icon-badges.demolab.com/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37&borderColor=D4AF37" alt="Portfolio"/>
-</a>
-<br/><br/>
-<sub><b>Live Showcase</b></sub>
-</td>
-<td width="20%" align="center" valign="top">
-<a href="https://www.linkedin.com/in/abhishek2006/">
-  <img src="https://custom-icon-badges.demolab.com/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37&borderColor=D4AF37" alt="LinkedIn"/>
-</a>
-<br/><br/>
-<sub><b>in/abhishek2006</b></sub>
-</td>
-<td width="20%" align="center" valign="top">
-<a href="https://github.com/4bhiigit">
-  <img src="https://custom-icon-badges.demolab.com/badge/🐙_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37&borderColor=D4AF37" alt="GitHub"/>
-</a>
-<br/><br/>
-<sub><b>@4bhiigit</b></sub>
-</td>
-<td width="20%" align="center" valign="top">
-<a href="https://instagram.com/me.4mmu">
-  <img src="https://custom-icon-badges.demolab.com/badge/📸_Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D4AF37&borderColor=D4AF37" alt="Instagram"/>
-</a>
-<br/><br/>
-<sub><b>@me.4mmu</b></sub>
-</td>
-<td width="20%" align="center" valign="top">
-<a href="mailto:abhishekdongre206@gmail.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/✉️_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37&borderColor=D4AF37" alt="Email"/>
-</a>
-<br/><br/>
-<sub><b>Direct Inbox</b></sub>
-</td>
-</tr>
-</table>
+<a href="https://my-portfolio-flax-theta-77.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/abhishek2006/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+<a href="https://github.com/4bhiigit"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a>
+<a href="https://instagram.com/me.4mmu"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram"/></a>
+<a href="mailto:abhishekdongre206@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
 
 </div>
 
