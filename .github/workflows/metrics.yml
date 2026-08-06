@@ -24,3 +24,5 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          extras_css: |
+            .items-wrapper{border:1.5px solid #D4AF37 !important;border-radius:12px}
