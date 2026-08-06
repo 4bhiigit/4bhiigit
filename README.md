@@ -143,32 +143,53 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <div align="center">
 
-## GitHub Statistics
+## 📊 GitHub Statistics & Analytics
+
+<sub>Live, auto-updating metrics & contribution activity</sub>
+
+</div>
 
 <br/>
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=4bhiigit&show_icons=true&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=30363D&border_radius=12" alt="GitHub Stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=30363D&border_radius=12" alt="Top Languages"/>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/4bhiigit">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=4bhiigit&show_icons=true&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="GitHub Stats"/>
+</a>
+</td>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/4bhiigit">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=12" alt="Top Languages"/>
+</a>
+</td>
+</tr>
+</table>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/4bhiigit">
+  <img width="100%" src="https://streak-stats.demolab.com?user=4bhiigit&theme=dark&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=D4AF37&border_radius=12" alt="GitHub Streak"/>
+</a>
+</td>
+<td width="50%" align="center" valign="middle">
+  <img width="100%" src="./metrics.svg" alt="Metrics"/>
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=4bhiigit&theme=dark&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D&border_radius=12" alt="GitHub Streak"/>
+<div align="center">
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4bhiigit&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&border_color=D4AF37&hide_border=false" alt="Activity Graph"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4bhiigit&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&border_color=30363D&hide_border=false" alt="Activity Graph"/>
-
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-<br/>
+<br/><br/>
 
-<img src="./metrics.svg" alt="Metrics"/>
-
-<br/>
-
-<img src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
