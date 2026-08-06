@@ -1,0 +1,42 @@
+name: Auto Badge Unlocker
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  discussions: write
+
+jobs:
+  unlock-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Quickdraw Badge (Create & Immediate Close Issue)
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try {
+              const issue = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: '⚡ Quickdraw Challenge Trigger',
+                body: 'Automated issue created and closed within seconds for Quickdraw achievement.'
+              });
+              console.log(`Created issue #${issue.data.number}`);
+              
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.data.number,
+                state: 'closed'
+              });
+              console.log(`Closed issue #${issue.data.number} immediately.`);
+            } catch (err) {
+              console.log('Error creating/closing issue:', err.message);
+            }
