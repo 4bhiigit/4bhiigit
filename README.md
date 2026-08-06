@@ -199,7 +199,7 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=4bhiigit&theme=gold&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=4bhiigit&theme=golden_dark&no-frame=true&row=1&column=6" alt="Golden Trophies"/>
 
 </div>
 
