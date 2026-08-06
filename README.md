@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=220&section=header&text=Abhishek%20Dongre&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=54&descSize=18&descColor=FFFFFF&fontFamily=Poppins" alt="Abhishek Dongre — Data Analyst, Full Stack Developer, AI Enthusiast"/>
+![Header Banner](./.github/assets/header_banner.svg)
 
 <a href="https://my-portfolio-flax-theta-77.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/></a>&nbsp;<a href="https://www.linkedin.com/in/abhishek2006/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/4bhiigit"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a>&nbsp;<a href="mailto:abhishekdongre206@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
 
