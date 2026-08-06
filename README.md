@@ -160,7 +160,7 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 </td>
 <td width="50%" align="center" valign="middle">
 <a href="https://leetcode.com/u/4bhii/">
-  <img width="100%" src="https://leetcard.jacoblin.cool/4bhii?theme=dark&font=synne&ext=activity" alt="LeetCode Stats"/>
+  <img width="100%" src="https://leetcard.jacoblin.cool/4bhii?theme=dark&font=synne&ext=activity&border=d4af37" alt="LeetCode Stats"/>
 </a>
 </td>
 </tr>

@@ -27,3 +27,4 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          style_css: "svg { border: 1.5px solid #D4AF37 !important; border-radius: 12px !important; background-color: #0D1117 !important; } .field svg { fill: #D4AF37 !important; } text.title { fill: #D4AF37 !important; }"
