@@ -143,7 +143,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/⚡_LIVE_GITHUB_METRICS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Live Metrics"/>
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20LIVE%20GITHUB%20METRICS&fontColor=D4AF37&fontSize=20&stroke=D4AF37&strokeWidth=2&height=45" alt="Live Metrics"/>
 </div>
 <br/>
 <a href="https://github.com/4bhiigit">
@@ -151,7 +151,7 @@
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=4bhiigit&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile Views"/>
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=👁️%20PROFILE%20VIEWS&fontColor=D4AF37&fontSize=18&stroke=D4AF37&strokeWidth=2&height=42" alt="Profile Views"/>
 </div>
 </td>
 <td width="50%" align="center" valign="middle">
