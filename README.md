@@ -142,9 +142,17 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/⚡_LIVE_GITHUB_METRICS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Live Metrics"/>
+</div>
+<br/>
 <a href="https://github.com/4bhiigit">
   <img width="100%" src="https://github-stats-extended.vercel.app/api?username=4bhiigit&show_icons=true&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="GitHub Stats"/>
 </a>
+<br/><br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=4bhiigit&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile Views"/>
+</div>
 </td>
 <td width="50%" align="center" valign="middle">
 <a href="https://leetcode.com/u/4bhii/">
