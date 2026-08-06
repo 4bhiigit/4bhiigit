@@ -195,9 +195,13 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <div align="center">
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements & GitHub Badges
 
 <br/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/🦈_Pull_Shark-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Pull Shark"/> <img src="https://custom-icon-badges.demolab.com/badge/👥_Pair_Extraordinaire-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Pair Extraordinaire"/> <img src="https://custom-icon-badges.demolab.com/badge/🎯_Quickdraw-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Quickdraw"/> <img src="https://custom-icon-badges.demolab.com/badge/💻_Developer_Member-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Developer Member"/>
+
+<br/><br/>
 
 <img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=golden_dark&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
 
