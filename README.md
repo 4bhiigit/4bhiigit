@@ -159,8 +159,8 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
-<a href="https://github.com/4bhiigit">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=12" alt="Top Languages"/>
+<a href="https://leetcode.com/u/4bhii/">
+  <img width="100%" src="https://leetcard.jacoblin.cool/4bhii?theme=dark&font=synne&ext=activity" alt="LeetCode Stats"/>
 </a>
 </td>
 </tr>
@@ -168,12 +168,16 @@ A Vite-bootstrapped React project — a clean component layout with props suppor
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/4bhiigit">
   <img width="100%" src="https://streak-stats.demolab.com?user=4bhiigit&theme=dark&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=D4AF37&border_radius=12" alt="GitHub Streak"/>
 </a>
+<br/><br/>
+<a href="https://github.com/4bhiigit">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=12" alt="Top Languages"/>
+</a>
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
   <img width="100%" src="./metrics.svg" alt="Metrics"/>
 </td>
 </tr>
