@@ -24,54 +24,42 @@
 
 ## About Me
 
-<br/>
+</div>
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 **Current Focus**
+<div align="center">
 
-<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/🎯_CURRENT_FOCUS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Current Focus"/>
 
-⚡ **Full-Stack Engineering**  
-<sub>Next.js • React • Node • FastAPI</sub>
-
-<br/>
-
-📊 **Data Analytics & BI**  
-<sub>Python • SQL • Power BI</sub>
+</div>
 
 <br/>
 
-🤖 **Applied AI Systems**  
-<sub>Voice Agents • Agentic Workflows</sub>
+• ⚡ **Full-Stack Engineering** — Next.js, React, Node.js, FastAPI  
+• 📊 **Data Analytics & BI** — Python, SQL, Power BI Workflows  
+• 🤖 **Applied AI Systems** — Voice Chatbots, Gemini & AI Agents  
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🚀 **Vision & Goals**
+<div align="center">
 
-<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/🚀_VISION_%26_GOALS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Vision & Goals"/>
 
-🛠️ **Product Engineering**  
-<sub>Building data-driven software that ships</sub>
-
-<br/>
-
-🌐 **Open Source Tooling**  
-<sub>Contributing to real-world developer tools</sub>
+</div>
 
 <br/>
 
-💡 **System Design**  
-<sub>Crafting scalable, user-first architecture</sub>
+• 🛠️ **Product Engineering** — Building data-driven software that ships  
+• 🌐 **Open Source Tooling** — Contributing to real-world developer tools  
+• 💡 **System Architecture** — Crafting clean, scalable systems  
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 
