@@ -25,4 +25,5 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           extras_css: |
-            .items-wrapper{border:1.5px solid #D4AF37 !important;border-radius:12px}
+            svg { border: 1.5px solid #D4AF37 !important; border-radius: 12px !important; background-color: #0D1117 !important; box-sizing: border-box !important; }
+            .items-wrapper { border: 1.5px solid #D4AF37 !important; border-radius: 12px !important; background-color: #0D1117 !important; box-sizing: border-box !important; padding: 8px !important; }
