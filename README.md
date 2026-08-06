@@ -166,6 +166,10 @@
 <a href="https://github.com/4bhiigit">
   <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4bhiigit&layout=compact&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=12" alt="Top Languages"/>
 </a>
+<br/><br/>
+<a href="https://github.com/4bhiigit/code-prectice">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=4bhiigit&repo=code-prectice&theme=transparent&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=12" alt="Coding Practice Repository"/>
+</a>
 </td>
 <td width="50%" align="center" valign="top">
   <img width="100%" src="./metrics.svg" alt="Metrics"/>
