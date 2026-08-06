@@ -24,30 +24,54 @@
 
 ## About Me
 
-</div>
+<br/>
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" align="center" valign="top">
 
-🎯 **Current Focus**
+### 🎯 **Current Focus**
 
-• Full-Stack Apps (Next.js, React, Node, FastAPI)  
-• Data Workflows (Python, SQL, Power BI)  
-• Voice & Agentic AI Interfaces  
+<br/>
+
+⚡ **Full-Stack Engineering**  
+<sub>Next.js • React • Node • FastAPI</sub>
+
+<br/>
+
+📊 **Data Analytics & BI**  
+<sub>Python • SQL • Power BI</sub>
+
+<br/>
+
+🤖 **Applied AI Systems**  
+<sub>Voice Agents • Agentic Workflows</sub>
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" align="center" valign="top">
 
-🚀 **Vision & Goals**
+### 🚀 **Vision & Goals**
 
-• Engineering data-driven products with real impact  
-• Contributing to open-source developer tools  
-• Continuously refining system architecture  
+<br/>
+
+🛠️ **Product Engineering**  
+<sub>Building data-driven software that ships</sub>
+
+<br/>
+
+🌐 **Open Source Tooling**  
+<sub>Contributing to real-world developer tools</sub>
+
+<br/>
+
+💡 **System Design**  
+<sub>Crafting scalable, user-first architecture</sub>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 
