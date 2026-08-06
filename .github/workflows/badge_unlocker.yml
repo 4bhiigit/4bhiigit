@@ -16,27 +16,54 @@ jobs:
   unlock-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Quickdraw Badge (Create & Immediate Close Issue)
+      - name: Trigger Pull Shark Badge (Create & Auto-Merge PR 1)
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             try {
-              const issue = await github.rest.issues.create({
+              const mainRef = await github.rest.git.getRef({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                title: '⚡ Quickdraw Challenge Trigger',
-                body: 'Automated issue created and closed within seconds for Quickdraw achievement.'
+                ref: 'heads/main'
               });
-              console.log(`Created issue #${issue.data.number}`);
+
+              const time = Date.now();
+              const branchName = `badge-pr-${time}`;
               
-              await github.rest.issues.update({
+              await github.rest.git.createRef({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: issue.data.number,
-                state: 'closed'
+                ref: `refs/heads/${branchName}`,
+                sha: mainRef.data.object.sha
               });
-              console.log(`Closed issue #${issue.data.number} immediately.`);
+
+              // Create dummy file commit
+              await github.rest.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: `.github/badges/pull_shark_${time}.txt`,
+                message: 'Pull Shark Badge Trigger Commit',
+                content: Buffer.from('Pull Shark Achievement Test').toString('base64'),
+                branch: branchName
+              });
+
+              const pr = await github.rest.pulls.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: '🦈 Pull Shark Badge Automated Trigger',
+                head: branchName,
+                base: 'main',
+                body: 'Automated Pull Request merged to unlock Pull Shark badge.'
+              });
+
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.data.number
+              });
+
+              console.log(`Merged Pull Request #${pr.data.number} successfully!`);
             } catch (err) {
-              console.log('Error creating/closing issue:', err.message);
+              console.log('Error triggering Pull Shark:', err.message);
             }
