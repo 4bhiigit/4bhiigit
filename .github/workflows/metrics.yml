@@ -25,4 +25,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           extras_css: |
-            .items-wrapper{border:2px solid #D4AF37 !important;border-radius:12px !important}
+            .items-wrapper{border:2px solid #D4AF37 !important;border-radius:12px !important;box-sizing:border-box !important;margin:2px !important}
