@@ -14,7 +14,7 @@
 
 <div align="center">
 
-> I work at the intersection of data and software — turning raw numbers into dashboards people actually use, and turning ideas into products that ship. I'm completing my B.Tech in Computer Science at Lovely Professional University, splitting my time between analytics tooling and full-stack engineering. I'm drawn to projects with a real user on the other end, not just proof-of-concepts.
+> *"Building at the intersection of Data Analytics, Full-Stack Development, and AI — crafting clean, scalable systems that ship."*
 
 </div>
 
@@ -22,9 +22,7 @@
 
 <div align="center">
 
-## About
-
-<sub>Where my attention is right now, and where it's headed</sub>
+## About Me
 
 </div>
 
@@ -32,30 +30,24 @@
 <tr>
 <td valign="top" width="50%">
 
-**Current Focus**
+🎯 **Current Focus**
 
-- Building full-stack applications with modern JS/TS frameworks
-- Strengthening data workflows with Python, SQL, and Power BI
-- Exploring applied AI — from voice agents to ML fundamentals
+• Full-Stack Apps (Next.js, React, Node, FastAPI)  
+• Data Workflows (Python, SQL, Power BI)  
+• Voice & Agentic AI Interfaces  
 
 </td>
 <td valign="top" width="50%">
 
-**Career Goals**
+🚀 **Vision & Goals**
 
-- Grow into a role that blends data analysis with product engineering
-- Contribute meaningfully to open-source tooling
-- Build a body of work made of shipped products, not just demos
+• Engineering data-driven products with real impact  
+• Contributing to open-source developer tools  
+• Continuously refining system architecture  
 
 </td>
 </tr>
 </table>
-
-**What I'm working on** — a FastAPI + MongoDB service, a Flask employee management system with role-based access, and a Next.js URL shortener with real-time analytics.
-
-**Interests** — data storytelling, system design, AI-driven interfaces, developer tooling.
-
-**Currently deepening** — advanced SQL and query optimization, Docker fundamentals, and building agentic AI applications.
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 
