@@ -34,58 +34,29 @@
 
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<sub>Grouped by where each tool actually gets used</sub>
+<sub>Systematically organized by domain</sub>
 
-**Languages**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/sql.svg" alt="SQL"/>
+### 💻 Languages
+<img src="https://custom-icon-badges.demolab.com/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python"/> <img src="https://custom-icon-badges.demolab.com/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=D4AF37" alt="C"/> <img src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" alt="C++"/> <img src="https://custom-icon-badges.demolab.com/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=D4AF37" alt="Java"/> <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript"/> <img src="https://custom-icon-badges.demolab.com/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5"/> <img src="https://custom-icon-badges.demolab.com/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3"/> <img src="https://custom-icon-badges.demolab.com/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="SQL"/>
 
-**Frontend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
+### 🌐 Web Development & Frameworks
+<img src="https://custom-icon-badges.demolab.com/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React.js"/> <img src="https://custom-icon-badges.demolab.com/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node.js"/> <img src="https://custom-icon-badges.demolab.com/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=D4AF37" alt="Django"/> <img src="https://custom-icon-badges.demolab.com/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="REST API"/>
 
-**Backend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&theme=dark" alt="Backend"/>
+### 🗄️ Databases & Big Data
+<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL"/> <img src="https://custom-icon-badges.demolab.com/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL"/> <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB"/> <img src="https://custom-icon-badges.demolab.com/badge/Cassandra-0D1117?style=for-the-badge&logo=apachecassandra&logoColor=D4AF37" alt="Cassandra"/> <img src="https://custom-icon-badges.demolab.com/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=D4AF37" alt="Hadoop"/> <img src="https://custom-icon-badges.demolab.com/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark&logoColor=D4AF37" alt="PySpark"/> <img src="https://custom-icon-badges.demolab.com/badge/Apache_Hive-0D1117?style=for-the-badge&logo=apachehive&logoColor=D4AF37" alt="Apache Hive"/> <img src="https://custom-icon-badges.demolab.com/badge/HBase-0D1117?style=for-the-badge&logo=apache&logoColor=D4AF37" alt="HBase"/>
 
-**Databases**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
-
-**Cloud &amp; DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,githubactions&theme=dark" alt="Cloud and DevOps"/>
-
-**AI &amp; Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and Machine Learning"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/gemini.svg" alt="Gemini"/>
-
-**Analytics &amp; BI**
-
-<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/pandas.svg" alt="Pandas"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/numpy.svg" alt="NumPy"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/jupyter.svg" alt="Jupyter"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/powerbi.svg" alt="Power BI"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/4bhiigit/4bhiigit/main/icons/excel.svg" alt="Excel"/>
-
-**Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark" alt="Developer Tools"/>
-
-**Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control"/>
-
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
-
-<div align="center">
-
-## Featured Skills
-
-<img src="https://custom-icon-badges.demolab.com/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python"/> <img src="https://custom-icon-badges.demolab.com/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="SQL"/> <img src="https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=D4AF37" alt="Power BI"/> <img src="https://custom-icon-badges.demolab.com/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" alt="Excel"/>
-<img src="https://custom-icon-badges.demolab.com/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React"/> <img src="https://custom-icon-badges.demolab.com/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js"/> <img src="https://custom-icon-badges.demolab.com/badge/Node-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node"/> <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=D4AF37" alt="Django"/> <img src="https://custom-icon-badges.demolab.com/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git"/> <img src="https://custom-icon-badges.demolab.com/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker"/> <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL"/>
-<img src="https://custom-icon-badges.demolab.com/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB"/> <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind"/> <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript"/> <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript"/>
+### ☁️ Cloud, DevOps, Analytics & Tools
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37" alt="AWS"/> <img src="https://custom-icon-badges.demolab.com/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker"/> <img src="https://custom-icon-badges.demolab.com/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git"/> <img src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/> <img src="https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=D4AF37" alt="Power BI"/> <img src="https://custom-icon-badges.demolab.com/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" alt="Excel"/> <img src="https://custom-icon-badges.demolab.com/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=D4AF37" alt="Figma"/> <img src="https://custom-icon-badges.demolab.com/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37" alt="Machine Learning"/>
 
 </div>
 
