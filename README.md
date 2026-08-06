@@ -24,42 +24,11 @@
 
 ## About Me
 
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/🎯_CURRENT_FOCUS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Current Focus"/>
-
-</div>
-
 <br/>
 
-• ⚡ **Full-Stack Engineering** — Next.js, React, Node.js, FastAPI  
-• 📊 **Data Analytics & BI** — Python, SQL, Power BI Workflows  
-• 🤖 **Applied AI Systems** — Voice Chatbots, Gemini & AI Agents  
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/🚀_VISION_%26_GOALS-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Vision & Goals"/>
+![About Me](./.github/assets/about_section.svg)
 
 </div>
-
-<br/>
-
-• 🛠️ **Product Engineering** — Building data-driven software that ships  
-• 🌐 **Open Source Tooling** — Contributing to real-world developer tools  
-• 💡 **System Architecture** — Crafting clean, scalable systems  
-
-</td>
-</tr>
-</table>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 
