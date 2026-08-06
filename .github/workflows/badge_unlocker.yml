@@ -16,116 +16,18 @@ jobs:
   unlock-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Pull Shark Badge (Create & Auto-Merge PR)
+      - name: Update code-prectice Repo Description
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             try {
-              const mainRef = await github.rest.git.getRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: 'heads/main'
+              await github.rest.repos.update({
+                owner: '4bhiigit',
+                repo: 'code-prectice',
+                description: '⚡ Curated Data Structures & Algorithms solutions in Python, Java, and C++ with clean indexing.'
               });
-
-              const time = Date.now();
-              const branchName = `badge-pr-${time}`;
-              
-              await github.rest.git.createRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: `refs/heads/${branchName}`,
-                sha: mainRef.data.object.sha
-              });
-
-              await github.rest.repos.createOrUpdateFileContents({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                path: `.github/badges/pull_shark_${time}.txt`,
-                message: 'Pull Shark Badge Trigger Commit',
-                content: Buffer.from('Pull Shark Achievement Test').toString('base64'),
-                branch: branchName
-              });
-
-              const pr = await github.rest.pulls.create({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                title: '🦈 Pull Shark Badge Automated Trigger',
-                head: branchName,
-                base: 'main',
-                body: 'Automated Pull Request merged to unlock Pull Shark badge.'
-              });
-
-              await github.rest.pulls.merge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.data.number
-              });
-
-              console.log(`Merged Pull Request #${pr.data.number} successfully!`);
+              console.log('Successfully updated code-prectice description!');
             } catch (err) {
-              console.log('Error triggering Pull Shark:', err.message);
-            }
-
-      - name: Trigger Galaxy Brain Badge (Create & Mark 2 Discussion Answers)
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            try {
-              const repoInfo = await github.graphql(`
-                query($owner: String!, $name: String!) {
-                  repository(owner: $owner, name: $name) {
-                    id
-                    discussionCategories(first: 5) {
-                      nodes {
-                        id
-                        name
-                      }
-                    }
-                  }
-                }
-              `, { owner: context.repo.owner, name: context.repo.repo });
-
-              const repoId = repoInfo.repository.id;
-              const categories = repoInfo.repository.discussionCategories.nodes;
-              const categoryId = categories.find(c => c.name === 'Q&A' || c.name === 'General')?.id || categories[0]?.id;
-
-              if (categoryId) {
-                for (let i = 1; i <= 2; i++) {
-                  const discussion = await github.graphql(`
-                    mutation($repoId: ID!, $categoryId: ID!, $title: String!, $body: String!) {
-                      createDiscussion(input: {repositoryId: $repoId, categoryId: $categoryId, title: $title, body: $body}) {
-                        discussion { id }
-                      }
-                    }
-                  `, { repoId, categoryId, title: `🧠 Galaxy Brain Question #${i} (${Date.now()})`, body: `Question for Galaxy Brain badge #${i}` });
-
-                  const discussionId = discussion.createDiscussion.discussion.id;
-
-                  const comment = await github.graphql(`
-                    mutation($discussionId: ID!, $body: String!) {
-                      addDiscussionComment(input: {discussionId: $discussionId, body: $body}) {
-                        comment { id }
-                      }
-                    }
-                  `, { discussionId, body: `Accepted Solution for Galaxy Brain #${i}` });
-
-                  const commentId = comment.addDiscussionComment.comment.id;
-
-                  await github.graphql(`
-                    mutation($commentId: ID!) {
-                      markDiscussionCommentAsAnswer(input: {id: $commentId}) {
-                        discussion { id }
-                      }
-                    }
-                  `, { commentId });
-
-                  console.log(`Successfully created & marked Galaxy Brain answer #${i}`);
-                }
-              } else {
-                console.log('No discussion category found. Please enable Discussions in repo settings.');
-              }
-            } catch (err) {
-              console.log('Error triggering Galaxy Brain (make sure Discussions are enabled in repo settings):', err.message);
+              console.log('Note on updating repo description:', err.message);
             }
