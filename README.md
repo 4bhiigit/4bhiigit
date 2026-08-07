@@ -197,7 +197,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=golden_dark&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
+<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=amber&no-frame=false&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
 
 </div>
 
@@ -221,57 +221,11 @@
 
 ## 🗺️ Learning Journey
 
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/📖_CURRENTLY_LEARNING-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Currently Learning"/>
-
-</div>
-
 <br/>
 
-• Advanced SQL &amp; Query Optimization  
-• Docker &amp; Containerization  
-• System Design Fundamentals  
-• Agentic AI Applications  
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/🚀_ROADMAP_NEXT-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Roadmap Next"/>
+![Learning Journey](./.github/assets/learning_journey.svg)
 
 </div>
-
-<br/>
-
-• Cloud Infrastructure (AWS / GCP)  
-• Open Source Contributions  
-• End-to-End Analytics Platform  
-• Advanced Voice Agents  
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/🎯_LONG--TERM_GOAL-0D1117?style=for-the-badge&logoColor=D4AF37&borderColor=D4AF37" alt="Long-Term Goal"/>
-
-</div>
-
-<br/>
-
-A high-impact role at the intersection of Data Analysis &amp; Full-Stack Engineering — building real products that scale.
-
-</td>
-</tr>
-</table>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=3" alt=""/>
 

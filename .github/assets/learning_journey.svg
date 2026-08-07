@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="100%">
+  <defs>
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="60%" stop-color="#14110C" />
+      <stop offset="100%" stop-color="#1C160B" />
+    </linearGradient>
+
+    <!-- Gold Text Gradient -->
+    <linearGradient id="goldTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#F7E8BA" />
+      <stop offset="100%" stop-color="#D4AF37" />
+    </linearGradient>
+
+    <!-- Ambient Gold Glows -->
+    <radialGradient id="cardGlow" cx="90%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Card 1: Currently Learning -->
+  <g transform="translate(0, 0)">
+    <rect width="270" height="220" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.8" stroke-opacity="0.9"/>
+    <rect width="270" height="220" rx="14" fill="url(#cardGlow)"/>
+    <text x="20" y="38" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="15" fill="url(#goldTitle)">📖  CURRENTLY LEARNING</text>
+    <line x1="20" y1="48" x2="250" y2="48" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="1"/>
+
+    <text x="20" y="78" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Advanced SQL &amp; Optimization</tspan></text>
+    <text x="20" y="108" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Docker &amp; Containerization</tspan></text>
+    <text x="20" y="138" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">System Design Fundamentals</tspan></text>
+    <text x="20" y="168" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Agentic AI Applications</tspan></text>
+  </g>
+
+  <!-- Card 2: Roadmap Next -->
+  <g transform="translate(290, 0)">
+    <rect width="270" height="220" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.8" stroke-opacity="0.9"/>
+    <rect width="270" height="220" rx="14" fill="url(#cardGlow)"/>
+    <text x="20" y="38" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="15" fill="url(#goldTitle)">🚀  ROADMAP NEXT</text>
+    <line x1="20" y1="48" x2="250" y2="48" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="1"/>
+
+    <text x="20" y="78" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Cloud Infra (AWS / GCP)</tspan></text>
+    <text x="20" y="108" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Open Source Contributions</tspan></text>
+    <text x="20" y="138" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">End-to-End Analytics Platform</tspan></text>
+    <text x="20" y="168" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#D4AF37">• <tspan fill="#E6EDF3">Advanced Voice Agents</tspan></text>
+  </g>
+
+  <!-- Card 3: Long-Term Goal -->
+  <g transform="translate(580, 0)">
+    <rect width="270" height="220" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.8" stroke-opacity="0.9"/>
+    <rect width="270" height="220" rx="14" fill="url(#cardGlow)"/>
+    <text x="20" y="38" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="15" fill="url(#goldTitle)">🎯  LONG-TERM GOAL</text>
+    <line x1="20" y1="48" x2="250" y2="48" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="1"/>
+
+    <text x="20" y="78" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#E6EDF3">A high-impact role at the</text>
+    <text x="20" y="98" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#E6EDF3">intersection of Data Analysis</text>
+    <text x="20" y="118" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#E6EDF3">&amp; Full-Stack Engineering —</text>
+    <text x="20" y="143" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#D4AF37">building real products</text>
+    <text x="20" y="163" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#D4AF37">that scale.</text>
+  </g>
+</svg>

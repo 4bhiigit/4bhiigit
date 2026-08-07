@@ -29,7 +29,7 @@
   <!-- Left Card: Current Focus -->
   <g transform="translate(0, 0)">
     <!-- Outer Card Rectangle -->
-    <rect width="410" height="215" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.2" stroke-opacity="0.75"/>
+    <rect width="410" height="215" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.8" stroke-opacity="0.9"/>
     <!-- Background Ambient Glow -->
     <rect width="410" height="215" rx="14" fill="url(#cardGlow1)"/>
     
@@ -56,7 +56,7 @@
   <!-- Right Card: Vision & Goals -->
   <g transform="translate(440, 0)">
     <!-- Outer Card Rectangle -->
-    <rect width="410" height="215" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.2" stroke-opacity="0.75"/>
+    <rect width="410" height="215" rx="14" fill="url(#cardBg)" stroke="#D4AF37" stroke-width="1.8" stroke-opacity="0.9"/>
     <!-- Background Ambient Glow -->
     <rect width="410" height="215" rx="14" fill="url(#cardGlow2)"/>
     

@@ -39,7 +39,7 @@
   </defs>
 
   <!-- Container Base -->
-  <rect width="850" height="230" rx="18" fill="url(#bgGradient)" stroke="#302713" stroke-width="1.5"/>
+  <rect width="850" height="230" rx="18" fill="url(#bgGradient)" stroke="#D4AF37" stroke-width="2" stroke-opacity="0.9"/>
 
   <!-- Ambient Glowing Bubbles Background -->
   <circle cx="740" cy="80" r="140" fill="url(#bubbleGold1)"/>
