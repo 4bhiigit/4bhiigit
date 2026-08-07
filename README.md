@@ -197,7 +197,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=amber&no-frame=false&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
+<img width="100%" src="https://github-profile-repo.vercel.app/?username=4bhiigit&theme=onedark&row=1&column=6&margin-w=8&margin-h=8" alt="Golden Trophies"/>
 
 </div>
 
