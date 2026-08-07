@@ -189,7 +189,7 @@
 
 <div align="center">
 
-## 🏆 Achievements & GitHub Badges
+## 🏆 Achievements & GitHub Badges -
 
 <br/>
 
