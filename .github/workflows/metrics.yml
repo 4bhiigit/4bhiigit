@@ -25,4 +25,32 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           extras_css: |
-            .items-wrapper{border:2px solid #D4AF37 !important;border-radius:12px !important;box-sizing:border-box !important;margin:2px !important}
+            .items-wrapper {
+              border: 2px solid #D4AF37 !important;
+              border-radius: 12px !important;
+              box-sizing: border-box !important;
+              margin: 2px !important;
+              background-color: #0D1117 !important;
+              box-shadow: 0 0 15px rgba(212, 175, 55, 0.2) !important;
+            }
+            h1, h2, h3, .field.h1, .field.h2, .field.h3 {
+              color: #D4AF37 !important;
+            }
+            h1 svg, h2 svg, h3 svg, .field > svg {
+              fill: #D4AF37 !important;
+              color: #D4AF37 !important;
+            }
+            .field {
+              color: #C9D1D9 !important;
+            }
+            footer, footer span {
+              color: #8B949E !important;
+            }
+            .calendar .day {
+              outline: 1px solid rgba(212, 175, 55, 0.2) !important;
+            }
+            .day[fill="#ebedf0"] { fill: #161b22 !important; }
+            .day[fill="#9be9a8"] { fill: #5c4918 !important; }
+            .day[fill="#40c463"] { fill: #947727 !important; }
+            .day[fill="#30a14e"] { fill: #cca433 !important; }
+            .day[fill="#216e39"] { fill: #ffd700 !important; }
